@@ -8,7 +8,8 @@ Dealers: https://colorlib.com/preview/#dealers
 - Static: https://madewell-shopping--minhle96.repl.co/
 - Rails App:
   - Github: https://github.com/minhle96/rails-girl-demo
-  - Repl.it: So many issue when coding on repl.it
+  - Repl.it: https://madewell-shopping-rails--minhle96.repl.co/
+  So many issue when coding on repl.it
 
 ## Static page
 - [x] Add HTML
@@ -24,6 +25,6 @@ Dealers: https://colorlib.com/preview/#dealers
 - [x] Add product to cart
 - [x] Cart page
 - [x] Cart remove product item
-- [ ] Cart edit product item
+- [x] Cart edit product item
 - [ ] Order history
 - [ ] Authentication/Authorization
